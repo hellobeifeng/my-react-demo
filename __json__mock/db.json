@@ -1,0 +1,16 @@
+{
+  "products": [
+    { "id": 1, "name": "存钱罐", "price": "200" },
+    { "id": 2, "name": "大风车", "price": "100" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment 1", "productId": 1 },
+    { "id": 2, "body": "some comment 2", "productId": 1 },
+    { "id": 3, "body": "some comment 3", "productId": 2 }
+  ],
+  "users": [{
+    "name": "feng",
+    "id": 1,
+    "token": "abcdefg"
+  }]
+}
